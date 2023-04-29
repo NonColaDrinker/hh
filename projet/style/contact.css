@@ -1,0 +1,106 @@
+h2{
+  text-align: center;
+  font-size: 43px ;
+  color: rgb(0, 0, 0);
+  }
+  #accueil{
+    padding: 0.4cm 0.7cm;
+    font-size: 0.4cm;
+      background-color: #6e7b85;
+    border: 1.5px solid #6e7b85;
+    font-weight: bold;
+    color:rgb(223, 226, 226);
+  }
+  #accueil:hover{
+      border: 1.5px solid #15202b;
+  /*padding: 0.3cm 0.5cm;*/
+  font-size: 0.4cm;
+    background-color: #15202b;
+    color: #6bc9fb;
+    transition:0.9s;
+  }
+  #trv{
+    padding: 0.4cm 0.7cm;
+    font-size: 0.4cm;
+      background-color: #6e7b85;
+    border: 1.5px solid #6e7b85;
+    font-weight: bold;
+    color:rgb(223, 226, 226);
+  }
+  #trv:hover{
+      border: 1.5px solid #15202b;
+  /*padding: 0.3cm 0.5cm;*/
+  font-size: 0.4cm;
+    background-color: #15202b;
+    color: #6bc9fb;
+    transition:0.9s;
+  }
+  
+  *{
+    margin:2px;
+  }
+
+  .navbar{
+    text-align: right;
+   position: absolute;
+   right: 90px;
+   top:90px;
+   border-radius: 5px;
+   
+  }
+  .navbar button:hover{
+    border: 1.5px solid #000000;
+    /* padding: 0.3cm 0.5cm; */
+    font-size: 0.4cm;
+    background-color: rgb(27, 27, 27);
+    color:wheat;
+    border-radius: 5px;
+  }
+  
+  li{
+    display: inline-block;
+    border-radius: 5px;
+  }
+  .navbar a{
+    border-radius: 5px;
+   font-style:italic;
+    font-family:all;
+      color: rgb(0, 0, 0);
+    padding: 0.3cm 0.5cm;
+    font-size: 0.5cm;
+      background-color: rgb(255, 255, 255);
+    border: 1.5px solid #778899;
+    font-weight: bold;
+  }
+  .navbar2{
+    text-align: right;
+   position: absolute;
+   right: 90px;
+   bottom:100px;
+   border-radius: 5px;
+   
+  }
+  .navbar2 button:hover{
+    border: 1.5px solid #000000;
+    /* padding: 0.3cm 0.5cm; */
+    font-size: 0.4cm;
+    background-color: rgb(27, 27, 27);
+    color:wheat;
+    border-radius: 5px;
+  }
+  
+  li{
+    display: inline-block;
+    border-radius: 5px;
+  }
+  .navbar2 a{
+    border-radius: 5px;
+   font-style:italic;
+    font-family:all;
+      color: rgb(0, 0, 0);
+    padding: 0.3cm 0.5cm;
+    font-size: 0.5cm;
+      background-color: rgb(255, 255, 255);
+    border: 1.5px solid #778899;
+    font-weight: bold;
+  }

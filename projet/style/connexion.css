@@ -1,0 +1,40 @@
+*{
+text-align: left;
+font-size: 15px ;
+color: rgb(0, 0, 0);
+}
+
+*{
+  margin:2px;
+}
+body{
+  background-image: url(../images/fondd.jpg);
+  background-position: center;
+  
+  
+}
+h3{
+text-align: center;
+font-size: 43px ;
+color: rgb(0, 0, 0);
+position: absolute;
+margin-top: -100px;
+margin-left: 500px;
+
+}
+#accueil{
+  padding: 0.4cm 0.7cm;
+  font-size: 0.4cm;
+  background-color:white ;
+  color: rgba(21,31,37,0.85) ;
+  border: 1.5px solid white;
+  font-weight: bold;
+}
+#accueil:hover{
+    border: 1.5px solid #15202b;
+/*padding: 0.3cm 0.5cm;*/
+font-size: 0.4cm;
+  background-color: #15202b;
+  color: #6bc9fb;
+  transition:0.9s;
+}
